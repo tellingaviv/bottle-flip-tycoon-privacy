@@ -1,4 +1,4 @@
-# Informativa sulla privacy — Bottle Flip Tycoon: Idle Empire
+# Informativa sulla privacy — Bottle Flip Tycoon
 
 Questo repository contiene **solo** l'informativa sulla privacy del gioco, pubblicata come pagina
 web tramite GitHub Pages.
